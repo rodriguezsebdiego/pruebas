@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Termineitor",
+    "rating": 4,
+    "tags": ["acción", "favorita", "nueva"]
+  },
+  {
+    "title": "volver al futuro",
+    "rating": 10,
+    "tags": ["favorita", "nueva"]
+  },
+  {
+    "title": "batman",
+    "rating":7,
+    "tags": ["favorita", "nueva"]
+  },
+  {
+    "title": "iron man",
+    "rating": 8,
+    "tags": ["favorita", "nueva", "ciencia ficcion"]
+  },
+  {
+    "title": "spaiderman",
+    "rating": 5,
+    "tags": ["favorita", "nueva", "ciencia ficcion"]
+  },
+  {
+    "title": "superman",
+    "rating": 6,
+    "tags": ["aventura", "favorita", "nueva"]
+  },
+  {
+    "title": "el señor de los anillos",
+    "rating": 8,
+    "tags": ["favorita", "nueva", "aventura", "accion"]
+  }
+]
