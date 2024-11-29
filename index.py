@@ -1,7 +1,7 @@
 entrada = input ("escribe la cadena: ")
 contador = {}
 for i in entrada:
-    # print (f" salida {i}")
+    
     if i in contador:
         contador[i] += 1
     else:
